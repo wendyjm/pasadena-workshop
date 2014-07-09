@@ -1,4 +1,5 @@
-pasadena-workshop
-=================
+# Pasadena GitHub & Git Workshop
 
-Training on July 8 with Jordan. 
+* Learn about GitHub 
+* Discover local uses of Git Technology
+* Try some collaboration patterns
